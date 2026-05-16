@@ -11,5 +11,5 @@ Clean UI: A simple and intuitive dashboard designed for smooth navigation and fa
 # Tech Stack
 Backend Framework: Laravel (PHP)
 Database Management: MariaDB
-Frontend: HTML5, Blade Templates, CSS, JavaScript
+Frontend: Blade Templates, HTML5, CSS
 Version Control: Git and GitHub 
